@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import api from '../../services/api';
+import api from '@/services/api';
 import { distanceInWords } from 'date-fns';
 import pt from 'date-fns/locale/pt';
 import Dropzone from 'react-dropzone';
